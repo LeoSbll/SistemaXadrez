@@ -4,12 +4,14 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group name="Projeto">
             <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/tabuleiroxadrez/Posicao.java</file>
+            <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/xadrez/ExcecaoXadrez.java</file>
             <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/sistemaxadrez/Jogo.java</file>
             <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/tabuleiroxadrez/Peca.java</file>
             <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/xadrez/PartidaDeXadrez.java</file>
-            <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/xadrez/Cor.java</file>
+            <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/xadrez/PosicaoXadrez.java</file>
+            <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/tabuleiroxadrez/ExcecoesDeTabuleiro.java</file>
+            <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/sistemaxadrez/InterfaceDoUsuario.java</file>
             <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/tabuleiroxadrez/Tabuleiro.java</file>
-            <file>file:/C:/Users/leona/OneDrive/Área%20de%20Trabalho/CursoXadrezJava/sistemaxadrez/src/xadrez/PecaDeXadrez.java</file>
         </group>
     </open-files>
 </project-private>
