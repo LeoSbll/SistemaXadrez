@@ -12,7 +12,7 @@ public class Tabuleiro {
 
     public Tabuleiro(int linhas, int colunas) {
         if(linhas < 1 || colunas < 1){
-            throw new ExcecoesDeTabuleiro("Necessário que haja pelo menos 1 linha e uma coluna");
+            throw new ExcecoesDeTabuleiro("Necessário que haja pelo menos uma linha e uma coluna");
         }
         this.linhas = linhas;
         this.colunas = colunas;
@@ -53,7 +53,7 @@ public class Tabuleiro {
     public boolean posicaoExistente(Posicao posicao){
         return posicaoExistente(posicao.getLinha(),posicao.getColuna());
     }
-    
+     
     public boolean haUmaPeca(Posicao posicao){
         if(!posicaoExistente(posicao)){
             throw new ExcecoesDeTabuleiro("Posição não se encontra no tabuleiro");

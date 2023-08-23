@@ -33,5 +33,7 @@ public class PartidaDeXadrez {
     private void inicioJogo(){
         lugarDaNovaPeca('a', 8, new Torre(tabuleiro, Cor.BRANCO));
         lugarDaNovaPeca('h', 8, new Torre(tabuleiro, Cor.BRANCO));
+        lugarDaNovaPeca('a', 1, new Torre(tabuleiro, Cor.PRETO));
     }
+
 }
